@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete">Delete</string>
+    <string name="inbox">Inbox</string>
+    <string name="tip">Touch a sender image to select that conversation</string>
+</resources>
